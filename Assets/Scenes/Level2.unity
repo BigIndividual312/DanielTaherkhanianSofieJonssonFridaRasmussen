@@ -85506,9 +85506,17 @@ PrefabInstance:
     m_TransformParent: {fileID: 1750136167}
     m_Modifications:
     - target: {fileID: 6744021399203898483, guid: 199d6b81d50fc8b4ca447e2bb8e1a36d, type: 3}
+      propertyPath: questGoal
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6744021399203898483, guid: 199d6b81d50fc8b4ca447e2bb8e1a36d, type: 3}
       propertyPath: dialogueBox
       value: 
       objectReference: {fileID: 836555503}
+    - target: {fileID: 6744021399203898483, guid: 199d6b81d50fc8b4ca447e2bb8e1a36d, type: 3}
+      propertyPath: levelToLoad
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6744021399203898483, guid: 199d6b81d50fc8b4ca447e2bb8e1a36d, type: 3}
       propertyPath: finishedText
       value: 
