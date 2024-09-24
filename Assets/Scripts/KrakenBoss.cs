@@ -25,21 +25,8 @@ public class KrakenBoss : MonoBehaviour
         rgbd.velocity = new Vector2(dirX * moveSpeed, rgbd.velocity.y);
     }
     public void LateUpdate()
-    {
-        Facing();
-    }
-
- /*   public void Facing()
-    {
-        if (dirX > 0)
-            facingRight = true;
-        else if (dirX < 0) 
-            facingRight = false;
-
-        if (((facingRight && (localScale.x < 0))) || ((!facingRight) && (localScale.x > 0)))
-            localScale.x *= -1;
-        transform.localScale = localScale;
-    }*/
+    {*/
+        
     public void LookAtPlayer()
     {
         Vector3 flipped = transform.localScale;

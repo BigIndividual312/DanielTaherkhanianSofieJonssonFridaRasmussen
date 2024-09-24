@@ -93,11 +93,37 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: OceanNormalTopLeft
+      name: 1
       rect:
         serializedVersion: 2
         x: 0
@@ -118,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OceanNormalTopMiddle
+      name: 2
       rect:
         serializedVersion: 2
         x: 16
@@ -139,7 +165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OceanNormalTopRight
+      name: 3
       rect:
         serializedVersion: 2
         x: 32
@@ -391,7 +417,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OceanNormalBottomLeft
+      name: 4
       rect:
         serializedVersion: 2
         x: 0
@@ -412,7 +438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OceanNormalBottomMiddle
+      name: 5
       rect:
         serializedVersion: 2
         x: 16
@@ -433,7 +459,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OceanNormalBottomRight
+      name: 6
       rect:
         serializedVersion: 2
         x: 32
@@ -1378,7 +1404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OceanPlatformHorizontalLeft
+      name: 7
       rect:
         serializedVersion: 2
         x: 192
@@ -1399,7 +1425,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OceanPlatformHorizontalMiddle
+      name: 8
       rect:
         serializedVersion: 2
         x: 208
@@ -1420,7 +1446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OceanPlatformHorizontalRight
+      name: 9
       rect:
         serializedVersion: 2
         x: 224
@@ -1850,6 +1876,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      1: 588928932
+      2: 760276225
+      3: 1131959532
+      4: 446330371
+      5: 559065611
+      6: -1142569096
+      7: 1319120700
+      8: -2020312080
+      9: 109230611
       AcidBottomLeft: 1936921043
       AcidBottomMiddle: 2001236449
       AcidBottomRight: 1625098557
@@ -1918,21 +1953,12 @@ TextureImporter:
       OceanMiddleCenter: 1897158929
       OceanMiddleLeft: 1875561508
       OceanMiddleRight: -592810418
-      OceanNormalBottomLeft: 446330371
-      OceanNormalBottomMiddle: 559065611
-      OceanNormalBottomRight: -1142569096
       OceanNormalMiddleCenter: -1205652857
       OceanNormalMiddleLeft: -715920625
       OceanNormalMiddleRight: 190633084
-      OceanNormalTopLeft: 588928932
-      OceanNormalTopMiddle: 760276225
-      OceanNormalTopRight: 1131959532
       OceanPillarTopLeft: 144699094
       OceanPillarTopMiddle: -1910158340
       OceanPillarTopRight: 571530912
-      OceanPlatformHorizontalLeft: 1319120700
-      OceanPlatformHorizontalMiddle: -2020312080
-      OceanPlatformHorizontalRight: 109230611
       OceanPlatformVerticalBottom: 537026558
       OceanPlatformVerticalMiddle: 12479763
       OceanPlatformVerticalTop: 88506692
