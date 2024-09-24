@@ -5,35 +5,41 @@ using UnityEngine;
 public class KrakenBoss : MonoBehaviour
 {
     public Transform player;
-    public float dirX;
-    private Rigidbody2D rgbd;
-    private bool facingRight = false;
-    private Vector3 localScale;
+  //  public float dirX;
+    //private Rigidbody2D rgbd;
+  //  private bool facingRight = false;
+   // private Vector3 localScale;
+  //  private float moveSpeed;
 
     public bool isFlipped = false;
 
-    private void Start()
+    //private void Start()
+    //{
+        //localScale = transform.localScale;
+      //  rgbd = GetComponent<Rigidbody2D>();
+      //  dirX = 1f;
+      //  moveSpeed = 1f;
+    //}
+ /*   private void FixedUpdate()
     {
-        localScale = transform.localScale;
-        rgbd = GetComponent<Rigidbody2D>();
-        dirX = -1f;
+        rgbd.velocity = new Vector2(dirX * moveSpeed, rgbd.velocity.y);
     }
-
     public void LateUpdate()
     {
         Facing();
     }
 
-    public void Facing()
+ /*   public void Facing()
     {
         if (dirX > 0)
             facingRight = true;
         else if (dirX < 0) 
             facingRight = false;
+
         if (((facingRight && (localScale.x < 0))) || ((!facingRight) && (localScale.x > 0)))
             localScale.x *= -1;
         transform.localScale = localScale;
-    }
+    }*/
     public void LookAtPlayer()
     {
         Vector3 flipped = transform.localScale;
@@ -45,7 +51,7 @@ public class KrakenBoss : MonoBehaviour
             transform.Rotate(0f, 180f, 0f);
             isFlipped = false;
         }
-        else if (transform.position.x < player.position.x && isFlipped)
+        else if (transform.position.x < player.position.x && !isFlipped)
         {
             transform.localScale = flipped;
             transform.Rotate(0f, 180f, 0f);
