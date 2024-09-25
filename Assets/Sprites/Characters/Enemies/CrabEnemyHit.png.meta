@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c3b31bf5c80b5d240bdffa2f35a3f403
+guid: 5ade32988d6ac894681c0077939202df
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: CrabEnemyHit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53.333332
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2d5e901f9a744f85169f028df0734
+      internalID: -711624430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrabEnemyHit_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53.333332
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3394811d12e2e48aa07daef7a588c6
+      internalID: 1354795536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrabEnemyHit_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53.333332
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8444cf6311a202a42bb70c3732fb9144
+      internalID: -35409464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +182,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CrabEnemyHit_0: -711624430
+      CrabEnemyHit_1: 1354795536
+      CrabEnemyHit_2: -35409464
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

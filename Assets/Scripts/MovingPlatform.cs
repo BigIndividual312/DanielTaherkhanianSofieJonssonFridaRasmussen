@@ -8,11 +8,16 @@ public class MovingPlatform : MonoBehaviour
     [SerializeField] private float moveSpeed = 2.0f;
 
     private Transform currentTarget;
+    private SpriteRenderer rend;
+    private bool canMove = true;
+
 
     // Start is called before the first frame update
     void Start()
     {
         currentTarget = target1;
+
+ 
     }
 
     // Update is called once per frame
