@@ -13,8 +13,9 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform spawnPosition;
     [SerializeField] private LayerMask whatIsGround;
     [SerializeField] private AudioClip pickupSound;
+    [SerializeField] private AudioClip KillSound;
     [SerializeField] private AudioClip[] jumpSounds;
-    [SerializeField] private GameObject appleParticles, dustParticles;
+    [SerializeField] private GameObject appleParticles, dustParticles, krakenParticles;
 
     [SerializeField] private Slider healthSlider;
     [SerializeField] private Image fillColor;
@@ -95,6 +96,12 @@ public class PlayerMovement : MonoBehaviour
         if(other.CompareTag("Health"))
         {
             RestoreHealth(other.gameObject);
+        }
+
+        if(other.CompareTag("Enemy"))
+        {
+            audioSource.PlayOneShot(KillSound, 0.5f);
+            Instantiate(krakenParticles, other.transform.position, Quaternion.identity);
         }
     }
 
