@@ -117,15 +117,15 @@ TextureImporter:
         y: 0
         width: 51
         height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70e92a389c4863a4693dca97b412c443
-      internalID: 2122890503
+      spriteID: f0c00d0821143c8439f9c6f089710d34
+      internalID: 849386030
       vertices: []
       indices: 
       edges: []
@@ -138,15 +138,15 @@ TextureImporter:
         y: 0
         width: 51
         height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f4febce867ef8c4db74a83bfc6605c7
-      internalID: 1316430088
+      spriteID: 6d8cb5ce21c26884495e6f2936c53a2b
+      internalID: -1142111157
       vertices: []
       indices: 
       edges: []
@@ -154,7 +154,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 92d720dce77744d47b2304f77dd2589c
     internalID: 0
     vertices: []
     indices: 
@@ -162,8 +162,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      enemycrab_0: 2122890503
-      enemycrab_1: 1316430088
+      enemycrab_0: 849386030
+      enemycrab_1: -1142111157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
