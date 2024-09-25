@@ -1,0 +1,1492 @@
+fileFormatVersion: 2
+guid: 56fd1c76a7d449f47afd95a6472f1ea2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638628638968118549
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: "Kraken.d\xF6d.Anim_Frame_0"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.2878788}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 158
+      width: 120
+      height: 66
+    spriteID: 9b6b391a1928e8942a22c4429ddf758b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 158}
+  - name: "Kraken.d\xF6d.Anim_Frame_1"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 453
+      width: 120
+      height: 61
+    spriteID: 4fd5d018df3573c498cd48a609c31462
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 453}
+  - name: "Kraken.d\xF6d.Anim_Frame_2"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 522
+      width: 120
+      height: 61
+    spriteID: 37f3d150f15129346ad09695ebf5554e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 522}
+  - name: "Kraken.d\xF6d.Anim_Frame_3"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 591
+      width: 120
+      height: 61
+    spriteID: 95de588d4197c9c4bacdb31c5b1061fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 591}
+  - name: "Kraken.d\xF6d.Anim_Frame_4"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.2878788}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 232
+      width: 120
+      height: 66
+    spriteID: f7f2137c058d3de40878dc80463243d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 232}
+  - name: "Kraken.d\xF6d.Anim_Frame_5"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 660
+      width: 120
+      height: 61
+    spriteID: 6c12366898e3cba40b9fc5fc0ce5250f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 660}
+  - name: "Kraken.d\xF6d.Anim_Frame_6"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 729
+      width: 120
+      height: 61
+    spriteID: fa829eb611e1f264ca2ea3288146d193
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 729}
+  - name: "Kraken.d\xF6d.Anim_Frame_7"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 798
+      width: 120
+      height: 61
+    spriteID: 0c8bbe01bf3d21148bef4dc67b01f40c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 798}
+  - name: "Kraken.d\xF6d.Anim_Frame_8"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.2878788}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 306
+      width: 120
+      height: 66
+    spriteID: 83d58e5d0e9a412419294f822f5e06f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 306}
+  - name: "Kraken.d\xF6d.Anim_Frame_9"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 867
+      width: 120
+      height: 61
+    spriteID: dc91f516f98191d41827915b71411db6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 867}
+  - name: "Kraken.d\xF6d.Anim_Frame_10"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 936
+      width: 120
+      height: 61
+    spriteID: b5d683959450d9640af2c02d3308099a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 936}
+  - name: "Kraken.d\xF6d.Anim_Frame_11"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 4
+      width: 120
+      height: 61
+    spriteID: d18651d01161e914e802846639ebe307
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 4}
+  - name: "Kraken.d\xF6d.Anim_Frame_12"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 73
+      width: 120
+      height: 61
+    spriteID: 5d6988c92ccd02c40b7181b92b781de2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 73}
+  - name: "Kraken.d\xF6d.Anim_Frame_13"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 142
+      width: 120
+      height: 61
+    spriteID: 646c3dacf4d9e5a4093bebaca7c24392
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 142}
+  - name: "Kraken.d\xF6d.Anim_Frame_14"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 211
+      width: 120
+      height: 61
+    spriteID: d5263d87218eb824e9a5224e78c5307d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 211}
+  - name: "Kraken.d\xF6d.Anim_Frame_15"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 280
+      width: 120
+      height: 61
+    spriteID: a665d5ed69e73aa48ad2a5e04ae69d6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 280}
+  - name: "Kraken.d\xF6d.Anim_Frame_16"
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.3934426}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 349
+      width: 120
+      height: 61
+    spriteID: 4c96de6e54e83394f8dc89d97c08a66c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 349}
+  - name: "Kraken.d\xF6d.Anim_Frame_17"
+    originalName: 
+    pivot: {x: 0.48800004, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 125
+      height: 70
+    spriteID: 51b27884594fd4d46b723feb556070e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: "Kraken.d\xF6d.Anim_Frame_18"
+    originalName: 
+    pivot: {x: 0.4916667, y: -0.30882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 120
+      height: 68
+    spriteID: a70f3a68e27de8541a3779dfb830760a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 82}
+  - name: "Kraken.d\xF6d.Anim_Frame_19"
+    originalName: 
+    pivot: {x: 0.5083334, y: -0.37704915}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 418
+      width: 120
+      height: 61
+    spriteID: 0e22058895f1e294d96784fa0abd5dc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 418}
+  - name: "Kraken.d\xF6d.Anim_Frame_20"
+    originalName: 
+    pivot: {x: 0.5083334, y: -0.2923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 380
+      width: 120
+      height: 65
+    spriteID: 88d5ff0f9cd3a7f46910486a663b181b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 380}
+  - name: "Kraken.d\xF6d.Anim_Frame_21"
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 487
+      width: 112
+      height: 64
+    spriteID: d569bc816a4e01f47935b97102ac87c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 487}
+  - name: "Kraken.d\xF6d.Anim_Frame_22"
+    originalName: 
+    pivot: {x: 0.7654321, y: -0.34426227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 214
+      width: 81
+      height: 61
+    spriteID: 4d0f26b461f59d044a6a7ff69b8f0ae3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 214}
+  - name: "Kraken.d\xF6d.Anim_Frame_23"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 296
+      width: 79
+      height: 64
+    spriteID: 63f8de3658d6f9e4098a7f68700a77ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 296}
+  - name: "Kraken.d\xF6d.Anim_Frame_24"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 368
+      width: 79
+      height: 64
+    spriteID: 8f083d0437de1504dbfde6bea410be2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 368}
+  - name: "Kraken.d\xF6d.Anim_Frame_25"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.3015873}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 656
+      width: 79
+      height: 63
+    spriteID: 36b5c57d78f5eb446aa211064fe1dff5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 656}
+  - name: "Kraken.d\xF6d.Anim_Frame_26"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 4
+      width: 79
+      height: 65
+    spriteID: fc14dad5e0158f0419941b5b2fbbb70f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 4}
+  - name: "Kraken.d\xF6d.Anim_Frame_27"
+    originalName: 
+    pivot: {x: 0.75609756, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 559
+      width: 82
+      height: 65
+    spriteID: 41d5b5bfa9bb5224192fb053028a0ca3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 559}
+  - name: "Kraken.d\xF6d.Anim_Frame_28"
+    originalName: 
+    pivot: {x: 0.75609756, y: -0.32258064}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 4
+      width: 82
+      height: 62
+    spriteID: b8783851bbdc09a46aa5df853d89730e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 4}
+  - name: "Kraken.d\xF6d.Anim_Frame_29"
+    originalName: 
+    pivot: {x: 0.75609756, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 632
+      width: 82
+      height: 65
+    spriteID: 6799d2ce8088062469ec4355ce52deb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 632}
+  - name: "Kraken.d\xF6d.Anim_Frame_30"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 440
+      width: 79
+      height: 64
+    spriteID: c11db4cd5aebda64f867cfee5a410b9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 440}
+  - name: "Kraken.d\xF6d.Anim_Frame_31"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.36666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 865
+      width: 79
+      height: 60
+    spriteID: 54ce132fc818cf049a645bc80fba5aec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 865}
+  - name: "Kraken.d\xF6d.Anim_Frame_32"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 77
+      width: 79
+      height: 65
+    spriteID: 8cc340e64fb3a8849b63e47cc60384bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 77}
+  - name: "Kraken.d\xF6d.Anim_Frame_33"
+    originalName: 
+    pivot: {x: 0.75609756, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 705
+      width: 82
+      height: 65
+    spriteID: a7c96e3028ad4f647a1707e034097f02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 705}
+  - name: "Kraken.d\xF6d.Anim_Frame_34"
+    originalName: 
+    pivot: {x: 0.75609756, y: -0.32258064}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 74
+      width: 82
+      height: 62
+    spriteID: c0519feacb7f4ac4481123e2994b746d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 74}
+  - name: "Kraken.d\xF6d.Anim_Frame_35"
+    originalName: 
+    pivot: {x: 0.75609756, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 778
+      width: 82
+      height: 65
+    spriteID: 32ee7b9c24ac0384eb88e41199c605c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 778}
+  - name: "Kraken.d\xF6d.Anim_Frame_36"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 512
+      width: 79
+      height: 64
+    spriteID: abebd527b73ce5641a3be6c0b517eccf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 512}
+  - name: "Kraken.d\xF6d.Anim_Frame_37"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.34426227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 727
+      width: 79
+      height: 61
+    spriteID: 73eb27ed2577e6b438d6807f7b558271
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 727}
+  - name: "Kraken.d\xF6d.Anim_Frame_38"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 150
+      width: 79
+      height: 65
+    spriteID: bc4e63c2e89954740a2eeb2747715db7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 150}
+  - name: "Kraken.d\xF6d.Anim_Frame_39"
+    originalName: 
+    pivot: {x: 0.75609756, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 851
+      width: 82
+      height: 65
+    spriteID: d9c992fb2c86df3479f8dbe35b4a604d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 851}
+  - name: "Kraken.d\xF6d.Anim_Frame_40"
+    originalName: 
+    pivot: {x: 0.75609756, y: -0.32258064}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 144
+      width: 82
+      height: 62
+    spriteID: 8e7c2000343440b48865af85d2cdf1bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 144}
+  - name: "Kraken.d\xF6d.Anim_Frame_41"
+    originalName: 
+    pivot: {x: 0.75609756, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 924
+      width: 82
+      height: 65
+    spriteID: b4b7b3db362efc24bb214e1c2fc3dcb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 924}
+  - name: "Kraken.d\xF6d.Anim_Frame_42"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 584
+      width: 79
+      height: 64
+    spriteID: 581d8fa52caa9ae459c0835ffd9e6fea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 584}
+  - name: "Kraken.d\xF6d.Anim_Frame_43"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.34426227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 796
+      width: 79
+      height: 61
+    spriteID: e0ee6ee00e2169d4eaea0071291b2a70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 796}
+  - name: "Kraken.d\xF6d.Anim_Frame_44"
+    originalName: 
+    pivot: {x: 0.7848101, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 223
+      width: 79
+      height: 65
+    spriteID: 02d7965ad83b25a4eaf8afeb044026e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 223}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1616126509
+    name: "Kraken.d\xF6d.Anim"
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: "Kraken.d\xF6d.Anim_Frame_0"
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 19
+        width: 120
+        height: 66
+      spriteId: 9b6b391a1928e8942a22c4429ddf758b
+    - name: "Kraken.d\xF6d.Anim_Frame_1"
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: 4fd5d018df3573c498cd48a609c31462
+    - name: "Kraken.d\xF6d.Anim_Frame_2"
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: 37f3d150f15129346ad09695ebf5554e
+    - name: "Kraken.d\xF6d.Anim_Frame_3"
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: 95de588d4197c9c4bacdb31c5b1061fe
+    - name: "Kraken.d\xF6d.Anim_Frame_4"
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 19
+        width: 120
+        height: 66
+      spriteId: f7f2137c058d3de40878dc80463243d5
+    - name: "Kraken.d\xF6d.Anim_Frame_5"
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: 6c12366898e3cba40b9fc5fc0ce5250f
+    - name: "Kraken.d\xF6d.Anim_Frame_6"
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: fa829eb611e1f264ca2ea3288146d193
+    - name: "Kraken.d\xF6d.Anim_Frame_7"
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: 0c8bbe01bf3d21148bef4dc67b01f40c
+    - name: "Kraken.d\xF6d.Anim_Frame_8"
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 19
+        width: 120
+        height: 66
+      spriteId: 83d58e5d0e9a412419294f822f5e06f9
+    - name: "Kraken.d\xF6d.Anim_Frame_9"
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: dc91f516f98191d41827915b71411db6
+    - name: "Kraken.d\xF6d.Anim_Frame_10"
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: b5d683959450d9640af2c02d3308099a
+    - name: "Kraken.d\xF6d.Anim_Frame_11"
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: d18651d01161e914e802846639ebe307
+    - name: "Kraken.d\xF6d.Anim_Frame_12"
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: 5d6988c92ccd02c40b7181b92b781de2
+    - name: "Kraken.d\xF6d.Anim_Frame_13"
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: 646c3dacf4d9e5a4093bebaca7c24392
+    - name: "Kraken.d\xF6d.Anim_Frame_14"
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: d5263d87218eb824e9a5224e78c5307d
+    - name: "Kraken.d\xF6d.Anim_Frame_15"
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: a665d5ed69e73aa48ad2a5e04ae69d6d
+    - name: "Kraken.d\xF6d.Anim_Frame_16"
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 24
+        width: 120
+        height: 61
+      spriteId: 4c96de6e54e83394f8dc89d97c08a66c
+    - name: "Kraken.d\xF6d.Anim_Frame_17"
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 21
+        width: 125
+        height: 70
+      spriteId: 51b27884594fd4d46b723feb556070e7
+    - name: "Kraken.d\xF6d.Anim_Frame_18"
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 21
+        width: 120
+        height: 68
+      spriteId: a70f3a68e27de8541a3779dfb830760a
+    - name: "Kraken.d\xF6d.Anim_Frame_19"
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 23
+        width: 120
+        height: 61
+      spriteId: 0e22058895f1e294d96784fa0abd5dc7
+    - name: "Kraken.d\xF6d.Anim_Frame_20"
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 19
+        width: 120
+        height: 65
+      spriteId: 88d5ff0f9cd3a7f46910486a663b181b
+    - name: "Kraken.d\xF6d.Anim_Frame_21"
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 20
+        width: 112
+        height: 64
+      spriteId: d569bc816a4e01f47935b97102ac87c8
+    - name: "Kraken.d\xF6d.Anim_Frame_22"
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 21
+        width: 81
+        height: 61
+      spriteId: 4d0f26b461f59d044a6a7ff69b8f0ae3
+    - name: "Kraken.d\xF6d.Anim_Frame_23"
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 18
+        width: 79
+        height: 64
+      spriteId: 63f8de3658d6f9e4098a7f68700a77ba
+    - name: "Kraken.d\xF6d.Anim_Frame_24"
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 18
+        width: 79
+        height: 64
+      spriteId: 8f083d0437de1504dbfde6bea410be2b
+    - name: "Kraken.d\xF6d.Anim_Frame_25"
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 19
+        width: 79
+        height: 63
+      spriteId: 36b5c57d78f5eb446aa211064fe1dff5
+    - name: "Kraken.d\xF6d.Anim_Frame_26"
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 79
+        height: 65
+      spriteId: fc14dad5e0158f0419941b5b2fbbb70f
+    - name: "Kraken.d\xF6d.Anim_Frame_27"
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 82
+        height: 65
+      spriteId: 41d5b5bfa9bb5224192fb053028a0ca3
+    - name: "Kraken.d\xF6d.Anim_Frame_28"
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 20
+        width: 82
+        height: 62
+      spriteId: b8783851bbdc09a46aa5df853d89730e
+    - name: "Kraken.d\xF6d.Anim_Frame_29"
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 82
+        height: 65
+      spriteId: 6799d2ce8088062469ec4355ce52deb1
+    - name: "Kraken.d\xF6d.Anim_Frame_30"
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 18
+        width: 79
+        height: 64
+      spriteId: c11db4cd5aebda64f867cfee5a410b9e
+    - name: "Kraken.d\xF6d.Anim_Frame_31"
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 22
+        width: 79
+        height: 60
+      spriteId: 54ce132fc818cf049a645bc80fba5aec
+    - name: "Kraken.d\xF6d.Anim_Frame_32"
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 79
+        height: 65
+      spriteId: 8cc340e64fb3a8849b63e47cc60384bd
+    - name: "Kraken.d\xF6d.Anim_Frame_33"
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 82
+        height: 65
+      spriteId: a7c96e3028ad4f647a1707e034097f02
+    - name: "Kraken.d\xF6d.Anim_Frame_34"
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 20
+        width: 82
+        height: 62
+      spriteId: c0519feacb7f4ac4481123e2994b746d
+    - name: "Kraken.d\xF6d.Anim_Frame_35"
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 82
+        height: 65
+      spriteId: 32ee7b9c24ac0384eb88e41199c605c6
+    - name: "Kraken.d\xF6d.Anim_Frame_36"
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 18
+        width: 79
+        height: 64
+      spriteId: abebd527b73ce5641a3be6c0b517eccf
+    - name: "Kraken.d\xF6d.Anim_Frame_37"
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 21
+        width: 79
+        height: 61
+      spriteId: 73eb27ed2577e6b438d6807f7b558271
+    - name: "Kraken.d\xF6d.Anim_Frame_38"
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 79
+        height: 65
+      spriteId: bc4e63c2e89954740a2eeb2747715db7
+    - name: "Kraken.d\xF6d.Anim_Frame_39"
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 82
+        height: 65
+      spriteId: d9c992fb2c86df3479f8dbe35b4a604d
+    - name: "Kraken.d\xF6d.Anim_Frame_40"
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 20
+        width: 82
+        height: 62
+      spriteId: 8e7c2000343440b48865af85d2cdf1bd
+    - name: "Kraken.d\xF6d.Anim_Frame_41"
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 82
+        height: 65
+      spriteId: b4b7b3db362efc24bb214e1c2fc3dcb6
+    - name: "Kraken.d\xF6d.Anim_Frame_42"
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 18
+        width: 79
+        height: 64
+      spriteId: 581d8fa52caa9ae459c0835ffd9e6fea
+    - name: "Kraken.d\xF6d.Anim_Frame_43"
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 21
+        width: 79
+        height: 61
+      spriteId: e0ee6ee00e2169d4eaea0071291b2a70
+    - name: "Kraken.d\xF6d.Anim_Frame_44"
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 17
+        width: 79
+        height: 65
+      spriteId: 02d7965ad83b25a4eaf8afeb044026e8
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 128}
