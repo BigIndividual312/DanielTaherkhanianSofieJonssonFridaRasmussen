@@ -15280,6 +15280,10 @@ PrefabInstance:
       propertyPath: moveSpeed
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5170518988412140037, guid: c76caa08f1c716744a97b104142bb95e, type: 3}
+      propertyPath: ratSpriteRenderer
+      value: 
+      objectReference: {fileID: 1751823604}
     - target: {fileID: 5373992589442227209, guid: c76caa08f1c716744a97b104142bb95e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 32.44
@@ -16891,6 +16895,10 @@ PrefabInstance:
       propertyPath: moveSpeed
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5170518988412140037, guid: c76caa08f1c716744a97b104142bb95e, type: 3}
+      propertyPath: ratSpriteRenderer
+      value: 
+      objectReference: {fileID: 734186659}
     - target: {fileID: 5373992589442227209, guid: c76caa08f1c716744a97b104142bb95e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 60.91
@@ -19199,6 +19207,10 @@ PrefabInstance:
       propertyPath: moveSpeed
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5170518988412140037, guid: c76caa08f1c716744a97b104142bb95e, type: 3}
+      propertyPath: ratSpriteRenderer
+      value: 
+      objectReference: {fileID: 1230726399}
     - target: {fileID: 5373992589442227209, guid: c76caa08f1c716744a97b104142bb95e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 45.86
@@ -19582,6 +19594,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1088
   pickupSound: {fileID: 8300000, guid: 8b592ce50c48ba14bae70a71734b4e54, type: 3}
+  KillSound: {fileID: 0}
   jumpSounds:
   - {fileID: 8300000, guid: 84e75cdc5e3ba6846a82834c8facd6e6, type: 3}
   - {fileID: 8300000, guid: f5de442de21b58a47af742b7127416a3, type: 3}
@@ -19589,6 +19602,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 387e5c10f8efa5243b5a3fe9f9cc17b3, type: 3}
   appleParticles: {fileID: 7615433766505926172, guid: 3e15bf37bf1d64e439709dbaeaaff862, type: 3}
   dustParticles: {fileID: 8499323120321374256, guid: ff51b26983042c546a9efe0eff9f46df, type: 3}
+  krakenParticles: {fileID: 0}
   healthSlider: {fileID: 2100227859}
   fillColor: {fileID: 155229825}
   greenHealth: {r: 0.5254902, g: 0.95686275, b: 0.38039216, a: 1}
@@ -19868,7 +19882,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 2c596e7b7aa0f3249932414059f0d649, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.68, y: 0.34}

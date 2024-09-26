@@ -3237,7 +3237,7 @@ Transform:
   m_GameObject: {fileID: 721166689}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 252.2, y: -3.6, z: -0.011879206}
+  m_LocalPosition: {x: 249.38, y: -3.6, z: -0.011879206}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7886,6 +7886,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1088
   pickupSound: {fileID: 8300000, guid: 8b592ce50c48ba14bae70a71734b4e54, type: 3}
+  KillSound: {fileID: 0}
   jumpSounds:
   - {fileID: 8300000, guid: 84e75cdc5e3ba6846a82834c8facd6e6, type: 3}
   - {fileID: 8300000, guid: f5de442de21b58a47af742b7127416a3, type: 3}
@@ -7893,6 +7894,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 387e5c10f8efa5243b5a3fe9f9cc17b3, type: 3}
   appleParticles: {fileID: 7615433766505926172, guid: 3e15bf37bf1d64e439709dbaeaaff862, type: 3}
   dustParticles: {fileID: 8499323120321374256, guid: ff51b26983042c546a9efe0eff9f46df, type: 3}
+  krakenParticles: {fileID: 0}
   healthSlider: {fileID: 2100227859}
   fillColor: {fileID: 155229825}
   greenHealth: {r: 0.5254902, g: 0.95686275, b: 0.38039216, a: 1}
