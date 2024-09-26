@@ -8079,6 +8079,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrabRescue2
       objectReference: {fileID: 0}
+    - target: {fileID: 2067447708583370532, guid: e98e0757407c9c846837edef599f5d74, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: b8ec854d8220c9446aba4871cecb79c7, type: 2}
     - target: {fileID: 6728384776664089296, guid: e98e0757407c9c846837edef599f5d74, type: 3}
       propertyPath: m_Sprite
       value: 
