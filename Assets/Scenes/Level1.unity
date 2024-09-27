@@ -19718,7 +19718,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1088
   pickupSound: {fileID: 8300000, guid: 8b592ce50c48ba14bae70a71734b4e54, type: 3}
-  KillSound: {fileID: 0}
+  KillSound: {fileID: 8300000, guid: 56cc803546af91249b00a94b3d66e099, type: 3}
   jumpSounds:
   - {fileID: 8300000, guid: 84e75cdc5e3ba6846a82834c8facd6e6, type: 3}
   - {fileID: 8300000, guid: f5de442de21b58a47af742b7127416a3, type: 3}
@@ -19766,7 +19766,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.474
+  m_Volume: 0.27
   m_Pitch: 1
   Loop: 0
   Mute: 0
