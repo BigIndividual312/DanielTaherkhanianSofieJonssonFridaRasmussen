@@ -1,0 +1,999 @@
+fileFormatVersion: 2
+guid: e132a2f2e46d85046bb1c443fb0ca262
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638630422521719595
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: bubblor.strip.anim_Frame_0
+    originalName: 
+    pivot: {x: 0.49514565, y: -0.06401766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 229
+      y: 1564
+      width: 103
+      height: 453
+    spriteID: 1ed45ce53fe4a494eb171914ba451344
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 1564}
+  - name: bubblor.strip.anim_Frame_1
+    originalName: 
+    pivot: {x: 0.49514565, y: -0.07064018}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1564
+      width: 103
+      height: 453
+    spriteID: ead3faf89b9f46e4f88ad5794e40dac3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1564}
+  - name: bubblor.strip.anim_Frame_2
+    originalName: 
+    pivot: {x: 0.5048544, y: -0.07505519}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 451
+      y: 1564
+      width: 103
+      height: 453
+    spriteID: 1ccefce8fd33c304b9697d199e736df9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 451, y: 1564}
+  - name: bubblor.strip.anim_Frame_3
+    originalName: 
+    pivot: {x: 0.49514565, y: -0.0794702}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 1564
+      width: 103
+      height: 453
+    spriteID: 84f5809d3e639db45915c291c5ba4aa1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 1564}
+  - name: bubblor.strip.anim_Frame_4
+    originalName: 
+    pivot: {x: 0.4854369, y: -0.09492274}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1564
+      width: 103
+      height: 453
+    spriteID: 5878bb8f698e2bc4aa04c65f461d0d31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1564}
+  - name: bubblor.strip.anim_Frame_5
+    originalName: 
+    pivot: {x: 0.4563107, y: -0.10154525}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 671
+      y: 4
+      width: 103
+      height: 453
+    spriteID: 2c0ff44ef27f53e439343f59fa128d3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 671, y: 4}
+  - name: bubblor.strip.anim_Frame_6
+    originalName: 
+    pivot: {x: 0.47572815, y: -0.105960265}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 671
+      y: 465
+      width: 103
+      height: 453
+    spriteID: f1a629793ea349346a5e3fd9773dc2c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 671, y: 465}
+  - name: bubblor.strip.anim_Frame_7
+    originalName: 
+    pivot: {x: 0.47572815, y: -0.11699779}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 671
+      y: 926
+      width: 103
+      height: 453
+    spriteID: c4e9263cbb0954544a36c3f9443b497d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 671, y: 926}
+  - name: bubblor.strip.anim_Frame_8
+    originalName: 
+    pivot: {x: 0.4854369, y: -0.121412806}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 671
+      y: 1387
+      width: 103
+      height: 453
+    spriteID: e21bffd2c34f4d549aea563d7d5e30a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 671, y: 1387}
+  - name: bubblor.strip.anim_Frame_9
+    originalName: 
+    pivot: {x: 0.47572815, y: -0.12803532}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 782
+      y: 4
+      width: 103
+      height: 453
+    spriteID: 5c0b70b33f7cede4b9b94f0a469ee4dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 782, y: 4}
+  - name: bubblor.strip.anim_Frame_10
+    originalName: 
+    pivot: {x: 0.47572815, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 524
+      width: 103
+      height: 512
+    spriteID: fa1bf5fbe0c55cf4298a1239514afed1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 524}
+  - name: bubblor.strip.anim_Frame_11
+    originalName: 
+    pivot: {x: 0.49514565, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 1044
+      width: 103
+      height: 512
+    spriteID: ae0fbe941103f2a44b2a348e49d61860
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 1044}
+  - name: bubblor.strip.anim_Frame_12
+    originalName: 
+    pivot: {x: 0.5048544, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 229
+      y: 4
+      width: 103
+      height: 512
+    spriteID: 119774ad99088d149b1c078dd223d9c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 4}
+  - name: bubblor.strip.anim_Frame_13
+    originalName: 
+    pivot: {x: 0.4854369, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 229
+      y: 524
+      width: 103
+      height: 512
+    spriteID: 663419227f092f5479ea0f677fa44b3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 524}
+  - name: bubblor.strip.anim_Frame_14
+    originalName: 
+    pivot: {x: 0.5145631, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 229
+      y: 1044
+      width: 103
+      height: 512
+    spriteID: 74ea1bc68b3082c43b5ac8049e9cc147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 1044}
+  - name: bubblor.strip.anim_Frame_15
+    originalName: 
+    pivot: {x: 0.5145631, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 4
+      width: 103
+      height: 512
+    spriteID: 8a5565cc884b91848b8050a10da4b760
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 4}
+  - name: bubblor.strip.anim_Frame_16
+    originalName: 
+    pivot: {x: 0.49514565, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 524
+      width: 103
+      height: 512
+    spriteID: 14ede520115524d44a9ab571b9f9888c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 524}
+  - name: bubblor.strip.anim_Frame_17
+    originalName: 
+    pivot: {x: 0.5048544, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1044
+      width: 103
+      height: 512
+    spriteID: d2390ff0b04771f43bd7d6872f7704ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1044}
+  - name: bubblor.strip.anim_Frame_18
+    originalName: 
+    pivot: {x: 0.47115386, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 524
+      width: 104
+      height: 512
+    spriteID: 96e9b7ce553d4f441a4061c477808912
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 524}
+  - name: bubblor.strip.anim_Frame_19
+    originalName: 
+    pivot: {x: 0.49038464, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1044
+      width: 104
+      height: 512
+    spriteID: 0eb38dbff53497247aa1f3999c950c3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1044}
+  - name: bubblor.strip.anim_Frame_20
+    originalName: 
+    pivot: {x: 0.46601942, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 451
+      y: 4
+      width: 103
+      height: 512
+    spriteID: 0a7c5b5ab73e2284c92bfb0c7649ed33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 451, y: 4}
+  - name: bubblor.strip.anim_Frame_21
+    originalName: 
+    pivot: {x: 0.4803922, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 451
+      y: 1044
+      width: 102
+      height: 512
+    spriteID: 5bfc58a2d1f3a9e4195d3a1f43854fbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 451, y: 1044}
+  - name: bubblor.strip.anim_Frame_22
+    originalName: 
+    pivot: {x: 0.49038464, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 117
+      y: 4
+      width: 104
+      height: 512
+    spriteID: 4ce7b334abd32704ca6b56d39c18e677
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 117, y: 4}
+  - name: bubblor.strip.anim_Frame_23
+    originalName: 
+    pivot: {x: 0.48571432, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 105
+      height: 512
+    spriteID: 737f39eb0bfeeab43ba4a14a28e5527f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: bubblor.strip.anim_Frame_24
+    originalName: 
+    pivot: {x: 0.4854369, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 451
+      y: 524
+      width: 103
+      height: 512
+    spriteID: 0385d9483f92ec04b9295f06a8f70855
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 451, y: 524}
+  - name: bubblor.strip.anim_Frame_25
+    originalName: 
+    pivot: {x: 0.45544553, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 562
+      y: 4
+      width: 101
+      height: 512
+    spriteID: 346813e270bc82a4dada89bb929c0ea5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 562, y: 4}
+  - name: bubblor.strip.anim_Frame_26
+    originalName: 
+    pivot: {x: 0.47252747, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 562
+      y: 524
+      width: 91
+      height: 511
+    spriteID: f7e2fad30c11dfa4aaef5b927e318ea0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 562, y: 524}
+  - name: bubblor.strip.anim_Frame_27
+    originalName: 
+    pivot: {x: 0.47252747, y: -0.007889546}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 562
+      y: 1043
+      width: 91
+      height: 507
+    spriteID: 12c79cf3527366f4fa4bed6adca51311
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 562, y: 1043}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1098892419
+    name: bubblor.strip.anim
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: bubblor.strip.anim_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 29
+        width: 103
+        height: 453
+      spriteId: 1ed45ce53fe4a494eb171914ba451344
+    - name: bubblor.strip.anim_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 32
+        width: 103
+        height: 453
+      spriteId: ead3faf89b9f46e4f88ad5794e40dac3
+    - name: bubblor.strip.anim_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 34
+        width: 103
+        height: 453
+      spriteId: 1ccefce8fd33c304b9697d199e736df9
+    - name: bubblor.strip.anim_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 36
+        width: 103
+        height: 453
+      spriteId: 84f5809d3e639db45915c291c5ba4aa1
+    - name: bubblor.strip.anim_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 43
+        width: 103
+        height: 453
+      spriteId: 5878bb8f698e2bc4aa04c65f461d0d31
+    - name: bubblor.strip.anim_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 46
+        width: 103
+        height: 453
+      spriteId: 2c0ff44ef27f53e439343f59fa128d3b
+    - name: bubblor.strip.anim_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 48
+        width: 103
+        height: 453
+      spriteId: f1a629793ea349346a5e3fd9773dc2c7
+    - name: bubblor.strip.anim_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 53
+        width: 103
+        height: 453
+      spriteId: c4e9263cbb0954544a36c3f9443b497d
+    - name: bubblor.strip.anim_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 55
+        width: 103
+        height: 453
+      spriteId: e21bffd2c34f4d549aea563d7d5e30a3
+    - name: bubblor.strip.anim_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 58
+        width: 103
+        height: 453
+      spriteId: 5c0b70b33f7cede4b9b94f0a469ee4dd
+    - name: bubblor.strip.anim_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 103
+        height: 512
+      spriteId: fa1bf5fbe0c55cf4298a1239514afed1
+    - name: bubblor.strip.anim_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 103
+        height: 512
+      spriteId: ae0fbe941103f2a44b2a348e49d61860
+    - name: bubblor.strip.anim_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 0
+        width: 103
+        height: 512
+      spriteId: 119774ad99088d149b1c078dd223d9c8
+    - name: bubblor.strip.anim_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 103
+        height: 512
+      spriteId: 663419227f092f5479ea0f677fa44b3a
+    - name: bubblor.strip.anim_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 103
+        height: 512
+      spriteId: 74ea1bc68b3082c43b5ac8049e9cc147
+    - name: bubblor.strip.anim_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 103
+        height: 512
+      spriteId: 8a5565cc884b91848b8050a10da4b760
+    - name: bubblor.strip.anim_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 103
+        height: 512
+      spriteId: 14ede520115524d44a9ab571b9f9888c
+    - name: bubblor.strip.anim_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 0
+        width: 103
+        height: 512
+      spriteId: d2390ff0b04771f43bd7d6872f7704ce
+    - name: bubblor.strip.anim_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 104
+        height: 512
+      spriteId: 96e9b7ce553d4f441a4061c477808912
+    - name: bubblor.strip.anim_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 104
+        height: 512
+      spriteId: 0eb38dbff53497247aa1f3999c950c3e
+    - name: bubblor.strip.anim_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 103
+        height: 512
+      spriteId: 0a7c5b5ab73e2284c92bfb0c7649ed33
+    - name: bubblor.strip.anim_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 102
+        height: 512
+      spriteId: 5bfc58a2d1f3a9e4195d3a1f43854fbc
+    - name: bubblor.strip.anim_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 104
+        height: 512
+      spriteId: 4ce7b334abd32704ca6b56d39c18e677
+    - name: bubblor.strip.anim_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 105
+        height: 512
+      spriteId: 737f39eb0bfeeab43ba4a14a28e5527f
+    - name: bubblor.strip.anim_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 103
+        height: 512
+      spriteId: 0385d9483f92ec04b9295f06a8f70855
+    - name: bubblor.strip.anim_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 101
+        height: 512
+      spriteId: 346813e270bc82a4dada89bb929c0ea5
+    - name: bubblor.strip.anim_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 0
+        width: 91
+        height: 511
+      spriteId: f7e2fad30c11dfa4aaef5b927e318ea0
+    - name: bubblor.strip.anim_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 4
+        width: 91
+        height: 507
+      spriteId: 12c79cf3527366f4fa4bed6adca51311
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 512}
