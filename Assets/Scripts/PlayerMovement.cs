@@ -101,7 +101,7 @@ public class PlayerMovement : MonoBehaviour
         if(other.CompareTag("Enemy"))
         {
             audioSource.PlayOneShot(KillSound, 0.5f);
-            Instantiate(krakenParticles, other.transform.position, Quaternion.identity);
+            
         }
     }
 
