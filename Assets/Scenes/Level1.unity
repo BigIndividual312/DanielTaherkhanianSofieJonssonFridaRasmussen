@@ -326,7 +326,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.52425045, g: 0.9547169, b: 0.38008535, a: 1}
+  m_Color: {r: 0.19215557, g: 0.41037738, b: 0.11808027, a: 0.972549}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -565,7 +565,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Please help! Our friends got lost, and they don't know got to get back.
+  m_text: Please help! Our friends got lost, and they don't know how to get back.
     Please rescue them!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a0f2987eb800a3149b351a51c00b7761, type: 2}
@@ -17017,7 +17017,7 @@ PrefabInstance:
       objectReference: {fileID: 1234872014}
     - target: {fileID: 5170518988412140037, guid: c76caa08f1c716744a97b104142bb95e, type: 3}
       propertyPath: moveSpeed
-      value: 2
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 5170518988412140037, guid: c76caa08f1c716744a97b104142bb95e, type: 3}
       propertyPath: ratSpriteRenderer
@@ -18316,7 +18316,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.504717, g: 0.035081215, b: 0, a: 0.8156863}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -18795,7 +18795,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: d069903b1a021584d8984626f4a70972, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.17
+  m_Volume: 0.38
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -19729,8 +19729,8 @@ MonoBehaviour:
   krakenParticles: {fileID: 0}
   healthSlider: {fileID: 2100227859}
   fillColor: {fileID: 155229825}
-  greenHealth: {r: 0.5254902, g: 0.95686275, b: 0.38039216, a: 1}
-  redHealth: {r: 1, g: 0.26370233, b: 0.26370233, a: 1}
+  greenHealth: {r: 0.19215557, g: 0.41037738, b: 0.11808027, a: 0.8235294}
+  redHealth: {r: 0.7783019, g: 0.06796053, b: 0.01468493, a: 1}
   appleText: {fileID: 1089782879}
   applesCollected: 0
 --- !u!95 &1676313383
@@ -20667,9 +20667,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Health
-
-'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32732,10 +32730,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_NormalColor: {r: 0.19215557, g: 0.41037738, b: 0.11808027, a: 0.8235294}
+    m_HighlightedColor: {r: 0.19215557, g: 0.41037738, b: 0.11808027, a: 0.8235294}
+    m_PressedColor: {r: 0.19215557, g: 0.41037738, b: 0.11808027, a: 0.8235294}
+    m_SelectedColor: {r: 0.19215557, g: 0.41037738, b: 0.11808027, a: 0.8235294}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
